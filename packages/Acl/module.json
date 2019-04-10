@@ -1,0 +1,10 @@
+{
+    "name": "Acl",
+    "alias": "acl",
+    "description": "Module for handling all site settings.",
+    "keywords": [
+        "ialc cms",
+        "settings"
+    ],
+    "version": "1.0.0"
+}
